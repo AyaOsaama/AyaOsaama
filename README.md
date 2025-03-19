@@ -1,5 +1,5 @@
-# 💫 About Me:
-Platform Mobile Development<br><br>💬 Ask me about anything<br><br>📫 How to reach me ayaosama40a@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/drive/folders/1SVc6gPXANvPFVS6_bYFCY5mpAy5DJOR9?usp=sharing<br><br>⚡ Fun fact always learning
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Aya Osama</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&pause=1000&color=2EA1D4&vCenter=true&random=true&width=700&lines=Building+future-ready%2C+cross-platform+solutions.;Bringing+modern+web+designs+to+life+with+precision.;Building+fast%2C+responsive%2C+accessible+web+apps.;Building+adaptive+solutions+for+every+device." alt="Typing SVG" /></a>
 
 
 # 💻 Tech Stack:
